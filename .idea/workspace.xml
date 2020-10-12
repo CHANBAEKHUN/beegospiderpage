@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76fe024a-c74d-4c6e-b2f4-b1ce1f6b1c3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/userLoginController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/register/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/register/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/register/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/upload/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/upload/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/upload/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/register/WeChatImg-8lg-GUI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/upload/WeChatImg-8lg-GUI.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login/HomeNew-f8f62.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login/poll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/login/set-cookies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/UserLoginForm-86fb5.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/data-set.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/es6-shim-8e9077312e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js(1).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js(2).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/jquery-02053ebe83.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/pc_nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/register/push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/BQNotarization-8b06e.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/CertificateMonitor-f4dff.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/LawAnd-bde3c.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/UrlEvidence-8ea17.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/UserAttAdd-ab4c6.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/UserAttList-538b0.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/UserChart-515e7.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/UserLoginForm-86fb5.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/data-set.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/es6-shim-8e9077312e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js(1).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js(2).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/jquery-02053ebe83.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/pc_nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/push.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/upload/set-cookies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/upload.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/userRegisterController.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/userRegisterController.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app-f03c3be68c19ce58d4ff.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/common-f03c3be68c19ce58d4ff.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/WeChatImg-8lg-GUI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/login/WeChatImg-8lg-GUI.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/UserLoginForm-86fb5.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/UserLoginForm-86fb5.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/UserRegistryForm-ef59c.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/UserRegistryForm-ef59c.chunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/b.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/data-set.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/data-set.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/es6-shim-8e9077312e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js(1).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/hm.js(2).js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js(2).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/jquery-02053ebe83.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/pc_nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/pc_nb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/poll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/poll.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/push.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/reload.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/set-cookies.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/set-cookies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
