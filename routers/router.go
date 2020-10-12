@@ -9,4 +9,8 @@ func init() {
     beego.Router("/", &controllers.MainController{})
 //    用户注册的接口请求
 beego.Router("/user_register",&controllers.RegisterController{})
+//访问登录页面的接口
+beego.Router("/login.html",&controllers.LoginController{})
+//用户登录接口
+beego.Router("/user_login",&controllers.LoginController{})
 }

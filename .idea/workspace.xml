@@ -2,11 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76fe024a-c74d-4c6e-b2f4-b1ce1f6b1c3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/userRegisterController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/userLoginController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/register/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/register/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/register/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/upload/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/upload/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/upload/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/register/WeChatImg-8lg-GUI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/upload/WeChatImg-8lg-GUI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login/HomeNew-f8f62.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login/poll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login/set-cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/UserLoginForm-86fb5.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/data-set.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/es6-shim-8e9077312e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/hm.js(2).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/jquery-02053ebe83.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/pc_nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/register/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/BQNotarization-8b06e.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/CertificateMonitor-f4dff.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/LawAnd-bde3c.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/UrlEvidence-8ea17.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/UserAttAdd-ab4c6.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/UserAttList-538b0.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/UserChart-515e7.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/UserLoginForm-86fb5.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/data-set.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/es6-shim-8e9077312e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/hm.js(2).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/jquery-02053ebe83.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/pc_nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/upload/set-cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/upload.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/userRegisterController.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/userRegisterController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app-f03c3be68c19ce58d4ff.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/app-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/common-f03c3be68c19ce58d4ff.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/common-f03c3be68c19ce58d4ff.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/WeChatImg-8lg-GUI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/login/WeChatImg-8lg-GUI.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/UserLoginForm-86fb5.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/UserLoginForm-86fb5.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/UserRegistryForm-ef59c.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/UserRegistryForm-ef59c.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/b.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/data-set.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/data-set.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/es6-shim-8e9077312e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js(1).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js(2).js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/hm.js(2).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/jquery-02053ebe83.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/pc_nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/pc_nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/poll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/poll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/login/push.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/reload.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/set-cookies.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register/set-cookies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +82,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Go File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,14 +106,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img/upload" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Goprojes\src\DataCertProject\static\js" />
-      <recent name="C:\Users\Goprojes\src\DataCertProject\static\img" />
-      <recent name="C:\Users\Goprojes\src\DataCertProject\static\css" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\img\upload" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\css\upload" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\js\upload" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\js\login" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\css\login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\img\register" />
+      <recent name="C:\Users\Goprojes\src\DataCertProject\static\css\register" />
     </key>
   </component>
   <component name="RunManager">
@@ -74,26 +146,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="872" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1602401349609" />
-    <state x="932" y="336" key="FileChooserDialogImpl" timestamp="1602314126817">
+    <state x="932" y="336" key="FileChooserDialogImpl" timestamp="1602468231531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="932" y="336" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602314126817" />
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1602413845163">
+    <state x="932" y="336" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602468231531" />
+    <state width="1493" height="12" key="GridCell.Tab.0.bottom" timestamp="1602488664828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602413845163" />
-    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1602413845163">
+    <state width="1493" height="12" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602488664828" />
+    <state width="1493" height="12" key="GridCell.Tab.0.center" timestamp="1602488664827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602413845163" />
-    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1602413845163">
+    <state width="1493" height="12" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602488664827" />
+    <state width="1493" height="12" key="GridCell.Tab.0.left" timestamp="1602488664827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602413845163" />
-    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1602413845163">
+    <state width="1493" height="12" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602488664827" />
+    <state width="1493" height="12" key="GridCell.Tab.0.right" timestamp="1602488664828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602413845163" />
+    <state width="1493" height="12" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602488664828" />
     <state x="270" y="55" key="SettingsEditor" timestamp="1602407195935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
